@@ -1,4 +1,4 @@
-# Next_Level_Week01 
+# Next_Level_Week01 - Ecoleta
 ----
 A Next Level Week é um evento semanal gratuito promovido pela RocketSeat. Essa foi a primeira edição do NLW.
 
